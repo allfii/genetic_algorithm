@@ -1,0 +1,5 @@
+compile all .java
+run main class in core/Main.java
+
+// copyright: masphei 2013
+// masphei@gmail.com
